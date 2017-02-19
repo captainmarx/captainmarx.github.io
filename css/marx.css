@@ -33,10 +33,10 @@
 	line-height: 90px;
 	float: left;
 	font-weight: bold;
-	padding:0 20px;
+	padding:0 18px;
 	color:#a7a9ac;
 	font-family: 'Signika', sans-serif;
-	font-size: 18px;
+	font-size: 16px;
 	cursor: pointer;
 	transition: 0.5s all ease;
 	_transform: perspective(800px) translateZ(0px);
@@ -84,7 +84,7 @@
 	left:136px;
 	top:450px;
 	width: 212px;
-	font-size: 24px;
+	font-size: 22px;
 	color:#a7a9ac;
 	font-family: 'Signika', sans-serif;
 	font-weight: bold;
